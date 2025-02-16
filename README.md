@@ -17,6 +17,6 @@ Welcome to my portfolio project! This project showcases my work, skills, and ach
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Styling:** Tailwind CSS / Bootstrap (or custom CSS)
+- **Frontend:** HTML, CSS, JavaScript
+- **Styling:** Tailwind CSS / Bootstrap
 - **Deployment:** GitHub Page

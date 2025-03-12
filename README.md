@@ -1,4 +1,4 @@
-# Maria Schoinaki's Portfolio
+# Maria Schoinaki's Portfolio Website
 
 Welcome to my portfolio project! This project showcases my work, skills, and achievements in an interactive and visually appealing manner. It serves as a personal website where potential employers, clients, or collaborators can explore my professional background and creative endeavors.
 
